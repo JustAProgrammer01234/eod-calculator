@@ -36,8 +36,6 @@ fn type_of_elasticity(eod: f64) {
 
 fn main() {
     println!("Elasticity of Demand calculator");
-    println!("In case what you're typing is a whole number, always end it with a .0 because this bitch ass program gonna go goofy ahh when you don't."); 
-    println!("Trust me on this. Just follow my instruction."); 
     println!(""); 
 
     let mut qd_1 = String::new(); 
