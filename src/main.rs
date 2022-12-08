@@ -39,16 +39,16 @@ fn main() {
     println!(""); 
 
     let mut qd_1 = String::new(); 
-    let qd_1 = get_input(&mut qd_1, "Enter qd1:"); 
+    let qd_1 = get_input(&mut qd_1, "Enter initial quantity:"); 
 
     let mut qd_2 = String::new(); 
-    let qd_2 = get_input(&mut qd_2, "Enter qd2:"); 
+    let qd_2 = get_input(&mut qd_2, "Enter final quantity:"); 
    
     let mut p_1 = String::new(); 
-    let p_1 = get_input(&mut p_1, "Enter p1:"); 
+    let p_1 = get_input(&mut p_1, "Enter initial price:"); 
 
     let mut p_2 = String::new(); 
-    let p_2 = get_input(&mut p_2, "Enter p2:"); 
+    let p_2 = get_input(&mut p_2, "Enter final price:"); 
 
 
     let percentage_quantity = calculate(qd_1, qd_2); 
