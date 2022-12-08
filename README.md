@@ -1,2 +1,2 @@
 # Elasticity of Demand calculator 
-Totally not gonna use this in my econ test bro. 
+Can't wait to use this in my econ test :))))))))
