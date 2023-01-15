@@ -35,7 +35,7 @@ fn type_of_elasticity(eod: f64) {
 }
 
 fn main() {
-    println!("Elasticity of Demand calculator");
+    println!("Elasticity of Demand/Supply calculator");
     println!(""); 
 
     let mut qd_1 = String::new(); 
